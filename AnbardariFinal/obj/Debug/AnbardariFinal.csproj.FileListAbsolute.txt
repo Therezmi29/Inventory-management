@@ -1,0 +1,68 @@
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.AssemblyReference.cache
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.Form1.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.GenerateResource.cache
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\AnbardariFinal.exe.config
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\AnbardariFinal.exe
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\AnbardariFinal.pdb
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.Properties.Resources.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.CoreCompileInputs.cache
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.CopyComplete
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.exe
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.pdb
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmInformation.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmPersons.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmPersonsReport.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmProducts.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmProductReport.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmStore.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmAddProductToStore.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmImportAnd_Export.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmStoreBalance.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\obj\Debug\AnbardariFinal.frmUsers.resources
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Base.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Report.Check.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Report.Design.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Report.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Data.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Report.Helper.dll
+C:\Users\reza2\Desktop\projects\learning- projects\AnbardariFinal\AnbardariFinal\bin\Debug\Stimulsoft.Editor.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\AnbardariFinal.exe.config
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\AnbardariFinal.exe
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\AnbardariFinal.pdb
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Base.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Report.Check.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Report.Design.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Report.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Data.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Report.Helper.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\Stimulsoft.Editor.dll
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.AssemblyReference.cache
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.Form1.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmAddProductToStore.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmImportAnd_Export.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmInformation.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmPersons.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmPersonsReport.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmProductReport.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmProducts.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmStore.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmStoreBalance.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.frmUsers.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.Properties.Resources.resources
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.GenerateResource.cache
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.CoreCompileInputs.cache
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.csproj.CopyComplete
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.exe
+C:\Users\reza2\Desktop\projects\main-projects\c#AnbardariFinal form app\AnbardariFinal\obj\Debug\AnbardariFinal.pdb
